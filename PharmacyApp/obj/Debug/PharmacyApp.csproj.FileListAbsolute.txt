@@ -1,0 +1,24 @@
+D:\Zakaz\курсач бд\PharmacyApp\bin\Debug\Pharmacy.mdf
+D:\Zakaz\курсач бд\PharmacyApp\bin\Debug\Pharmacy_log.ldf
+D:\Zakaz\курсач бд\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+D:\Zakaz\курсач бд\PharmacyApp\bin\Debug\PharmacyApp.exe
+D:\Zakaz\курсач бд\PharmacyApp\bin\Debug\PharmacyApp.pdb
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.csprojAssemblyReference.cache
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.exe
+D:\Zakaz\курсач бд\PharmacyApp\obj\Debug\PharmacyApp.pdb
+C:\Users\kpest\source\repos\PharmacyApp\bin\Debug\Pharmacy.mdf
+C:\Users\kpest\source\repos\PharmacyApp\bin\Debug\Pharmacy_log.ldf
+C:\Users\kpest\source\repos\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+C:\Users\kpest\source\repos\PharmacyApp\bin\Debug\PharmacyApp.exe
+C:\Users\kpest\source\repos\PharmacyApp\bin\Debug\PharmacyApp.pdb
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.csprojAssemblyReference.cache
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.exe
+C:\Users\kpest\source\repos\PharmacyApp\obj\Debug\PharmacyApp.pdb
